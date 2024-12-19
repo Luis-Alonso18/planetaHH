@@ -1,2 +1,2 @@
-# planetaHH
-Pagina web dedicada al contenido de batallas de freestyle, escritas, beats, musica, entre otras cosas relacionadas al hiphop
+# Planeta Hip-Hop
+Página web dedicada al contenido de batallas de freestyle, escritas, beats, música, entre otras cosas relacionadas al hip-hop.
